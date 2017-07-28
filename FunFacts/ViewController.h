@@ -10,6 +10,7 @@
 
 @interface ViewController : UIViewController
 
+@property (weak, nonatomic) IBOutlet UILabel *funFactLabel;
+@property (weak, nonatomic) NSArray *facts;
 
 @end
-
