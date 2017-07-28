@@ -14,6 +14,7 @@
 		897B3A681F2A650200DBF368 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 897B3A671F2A650200DBF368 /* Assets.xcassets */; };
 		897B3A6B1F2A650200DBF368 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 897B3A691F2A650200DBF368 /* LaunchScreen.storyboard */; };
 		897B3A741F2AD2F500DBF368 /* FactBook.m in Sources */ = {isa = PBXBuildFile; fileRef = 897B3A731F2AD2F500DBF368 /* FactBook.m */; };
+		897B3A771F2B867500DBF368 /* ColorWheel.m in Sources */ = {isa = PBXBuildFile; fileRef = 897B3A761F2B867500DBF368 /* ColorWheel.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -29,6 +30,8 @@
 		897B3A6C1F2A650200DBF368 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		897B3A721F2AD2F500DBF368 /* FactBook.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FactBook.h; sourceTree = "<group>"; };
 		897B3A731F2AD2F500DBF368 /* FactBook.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FactBook.m; sourceTree = "<group>"; };
+		897B3A751F2B867500DBF368 /* ColorWheel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ColorWheel.h; sourceTree = "<group>"; };
+		897B3A761F2B867500DBF368 /* ColorWheel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ColorWheel.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -67,6 +70,8 @@
 				897B3A621F2A650200DBF368 /* ViewController.m */,
 				897B3A721F2AD2F500DBF368 /* FactBook.h */,
 				897B3A731F2AD2F500DBF368 /* FactBook.m */,
+				897B3A751F2B867500DBF368 /* ColorWheel.h */,
+				897B3A761F2B867500DBF368 /* ColorWheel.m */,
 				897B3A641F2A650200DBF368 /* Main.storyboard */,
 				897B3A671F2A650200DBF368 /* Assets.xcassets */,
 				897B3A691F2A650200DBF368 /* LaunchScreen.storyboard */,
@@ -160,6 +165,7 @@
 				897B3A601F2A650200DBF368 /* AppDelegate.m in Sources */,
 				897B3A741F2AD2F500DBF368 /* FactBook.m in Sources */,
 				897B3A5D1F2A650200DBF368 /* main.m in Sources */,
+				897B3A771F2B867500DBF368 /* ColorWheel.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
